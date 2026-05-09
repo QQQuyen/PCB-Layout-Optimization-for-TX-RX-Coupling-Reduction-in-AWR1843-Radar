@@ -11,7 +11,7 @@ Analyzed a 6-layer PCB stackup based on TI design guidelines for AWR1843 mmWave 
 
 Simulation of different antenna structures and RF layouts was performed using Keysight ADS to compare coupling performance through S-parameters.
 
-Tool: Altium design, key sight ADS
+Tool: Altium design, Keysight ADS
 
 ### Stackup PCB
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/e285b597-9ca6-410e-b09e-8808fefa591c" />
