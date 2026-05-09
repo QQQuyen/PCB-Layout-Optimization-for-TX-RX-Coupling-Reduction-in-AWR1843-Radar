@@ -1,6 +1,7 @@
 # PCB-Layout-Optimization-for-TX-RX-Coupling-Reduction-in-AWR1843-Radar
+Course project at Ho Chi Minh City University of Technology
 
-## overview
+## Overview
 This project studies methods to reduce coupling between TX and RX antennas in a 77 GHz mmWave radar system using the AWR1843 chip.
 The project focuses on PCB layout, antenna structures, transmission lines, and electromagnetic simulation.
 
